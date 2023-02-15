@@ -1,0 +1,11 @@
+.button-box {
+  width: 100%;
+  text-align: right;
+}
+
+.button-text {
+  background-color: white;
+  border: none;
+  font-size: 18px;
+  margin-right: 10px;
+}
